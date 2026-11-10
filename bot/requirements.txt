@@ -1,0 +1,8 @@
+# Python 3.9+ (текущее рабочее окружение проекта — Python 3.9.6).
+# Установка: python3 -m venv .venv && source .venv/bin/activate
+#            pip install -r requirements.txt
+
+aiohttp>=3.9,<4.0
+gigachat>=0.1.30
+better-profanity==0.7.0
+python-dotenv>=1.0,<2.0
